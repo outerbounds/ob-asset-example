@@ -1,0 +1,6 @@
+name = "Sample Data"
+id = "sample_data"
+description = "Example data asset demonstrating register_data and get_data"
+
+[properties]
+format = "dict"

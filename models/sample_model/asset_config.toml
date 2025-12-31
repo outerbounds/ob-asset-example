@@ -1,0 +1,6 @@
+name = "Sample Model"
+id = "sample_model"
+description = "Example model asset demonstrating register_model and get_model"
+
+[properties]
+framework = "mock"
