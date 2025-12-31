@@ -1,5 +1,6 @@
 # Asset Example Project
 # Demonstrates register_data, register_model, get_data, get_model
+platform = "dev-yellow.outerbounds.xyz"
 
 project = "asset_example"
 title = "Asset API Example"
