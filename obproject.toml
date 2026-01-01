@@ -6,5 +6,5 @@ project = "asset_example"
 title = "Asset API Example"
 
 [dev-assets]
-# Uncomment to read assets from prod branch during local development
-# branch = "prod"
+# Read assets from main branch during local development
+branch = "main"
